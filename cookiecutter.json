@@ -1,8 +1,8 @@
 {
-  "username": "your name",
-  "email": "your.name@email.com",
-  "project_name": "Untitled Project",
-  "affiliation": "Piton",
+  "name": "eric wang",
+  "email": "eric.wang@precidiag.com",
+  "project_name": "untitled project",
+  "affiliation": "piton",
   "project_description": "insert description here",
   "date": "{% now 'local' %}",
   "_extensions": ["jinja2_time.TimeExtension"]
