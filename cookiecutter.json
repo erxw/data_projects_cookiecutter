@@ -1,6 +1,9 @@
 {
-	"project_name": "Untitled Project",
-	"username": "erx",
-	"organization": "Piton"
-
+  "username": "your name",
+  "email": "your.name@email.com",
+  "project name": "Untitled Project",
+  "affiliation": "Piton",
+  "project_description": "insert description here",
+  "date": "{% now 'local' %}",
+  "_extensions": ["jinja2_time.TimeExtension"]
 }
